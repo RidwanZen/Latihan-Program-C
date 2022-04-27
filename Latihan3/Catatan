@@ -1,0 +1,21 @@
+1."data_asli.txt"
+a,d
+b,e
+c,f
+
+dari 2 kolom menjadi 1 kolom
+dengan output 
+a1
+b2
+c3
+d4
+e5
+f6
+save dengan nama "data _copy.txt"
+
+2. diubah menjadi file sebelumnya dari hasil output no 1
+
+save dengan nama "data_asli1.txt"
+
+yg boleh pake void ( baca data, save data)
+

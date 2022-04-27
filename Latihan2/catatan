@@ -1,0 +1,12 @@
+1. isi data.txt 5 kolom dibikin file output dengan isian biner
+
+data_biner.txt
+
+1,7,8,1,7
+2,6,6,2,6
+3,8,9,3,8
+4,6,9,4,6
+
+2. mengembalikan isi dari data.txt, yaitu dari data_biner.txt ke data.txt
+
+
